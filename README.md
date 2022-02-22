@@ -2,7 +2,7 @@
 
 ## 1. API Pulls
 
-Utilizing requests library to pull and process oData
+Utilizing requests library to pull and process oData.
 
 ### getodata.py
 
